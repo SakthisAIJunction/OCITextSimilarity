@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: OCITextSimilarity
+Version: 0.1.0
+Summary: A package for calculating the text similarity using OCI embeddings
+Home-page: 
+Author: Sakthivel Thangaraj
+Author-email: sakthiveltvt.thangaraj@gmail.com
+Classifier:  programming language:: python :: 3.12 
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Independent
+Requires-Python: >=3.9
+Requires-Dist: langchain_community
+Requires-Dist: oci
